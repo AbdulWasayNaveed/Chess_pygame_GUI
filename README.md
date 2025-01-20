@@ -16,7 +16,7 @@ A 2-player chess game developed using Pygame, where two players can play chess o
 ## Installation
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/chess-game.git
+   git clone https://github.com/AbdulWasayNaveed/Chess_pygame_GUI.git
    ```
 2. Install dependencies:
    ```
